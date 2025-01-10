@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!&fontColor=d6ace6&fontAlign=70)
-## Hi there 👋
 
 <!--
 **ouob123/ouob123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## :raising_hand: About Me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouob123&layout=compact)
