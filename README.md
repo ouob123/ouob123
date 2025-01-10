@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 :school: I majored in IT Engineering, Sookmyung Women's University <br>
 :computer: I have a interest in server development. <br>
 :pencil: Recently, I've been studying Spring. <br>
+<br>
 
 ## :gem: Tech Stack
 Language <br>
@@ -32,6 +33,6 @@ ETC <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## :cartwheeling: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouob123)](https://github.com/anuraghazra/github-readme-stats)
- 
- // 예시 코드
+
