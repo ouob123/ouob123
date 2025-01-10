@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=YooJin's%20GitHub&fontSize=90)
-
 ## Hi there 👋
 
 <!--
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
