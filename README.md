@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## :raising_hand: About Me
-:school: I majored in IT Engineering, Sookmyung Women's University
-:computer: I have a interest in server development. 
-:pencil: Recently, I've been studying Spring.
+:school: I majored in IT Engineering, Sookmyung Women's University <br>
+:computer: I have a interest in server development. <br>
+:pencil: Recently, I've been studying Spring. <br>
 
 ## :gem: Tech Stack
 Language
