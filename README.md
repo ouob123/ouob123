@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!&fontColor=d6ace6&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=YuJin's%20Github!&fontColor=000000&fontAlign=80)
 
 <!--
 **ouob123/ouob123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
