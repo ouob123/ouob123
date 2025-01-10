@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%there!&fontColor=d6ace6)
 ## Hi there 👋
 
 <!--
@@ -14,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ouob123&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouob123&layout=compact)
