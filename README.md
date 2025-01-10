@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YuJin's%20Github&fontSize=50&fontColor=ffffff&fontAlign=75&fontAlignY=40)
-
 <!--
 **ouob123/ouob123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## :raising_hand: About Me
 :school: I majored in IT Engineering, Sookmyung Women's University <br>
 :computer: I have a interest in server development. <br>
