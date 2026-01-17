@@ -1,18 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YuJin's%20Github&fontSize=50&fontColor=ffffff&fontAlign=75&fontAlignY=40)
-<!--
-**ouob123/ouob123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## :raising_hand: About Me
 :school: I majored in IT Engineering, Sookmyung Women's University <br>
 :computer: I have a interest in server development. <br>
@@ -31,6 +16,9 @@ ETC <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br>
 <br>
+
+## :cartwheeling: 
+
 
 ## :cartwheeling: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouob123)](https://github.com/anuraghazra/github-readme-stats)
