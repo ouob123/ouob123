@@ -51,15 +51,10 @@
 - SOLUX (IT 중앙 동아리) | 29기 부원 (2024.03 ~ 2024.08)
 - WIN (IT공학과 학회) | 웹운영팀 회원 (2023.03 ~ 2023.11)
 
-**Honors & Awards**
+**Awards**
 - 숙명여자대학교 창업 경진대회 은상 수상 (2025.10.31)
 - UNI-DTHON 은상 수상 (2023.11.12)
 - 숙명여자대학교 제3회 IPS 대회 입상 (2023.05)
-<br>
-
-
-## 📊 Github Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ouob123&theme=flat-square)
 <br>
 
 
