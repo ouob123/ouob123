@@ -11,7 +11,6 @@
 
 ⚙️ **Frameworks** <br/>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white)
 
 💾 **Databases** <br/>
