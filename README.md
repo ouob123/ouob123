@@ -16,6 +16,7 @@
 💾 **Databases** <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 🚀 **Infrastructure & DevOps** <br/>
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
@@ -23,6 +24,9 @@
 ![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
 ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Kubernetes Engine](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 🎨 **Design & Collaboration** <br/>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -53,6 +57,7 @@
 - WIN (IT공학과 학회) | 웹운영팀 회원 (2023.03 ~ 2023.11)
 
 **Awards**
+- KUSITMS 기업 연계 프로젝트 Best Practice Award (2026.04.17)
 - 숙명여자대학교 창업 경진대회 은상 수상 (2025.10.31)
 - UNI-DTHON 은상 수상 (2023.11.12)
 - 숙명여자대학교 제3회 IPS 대회 입상 (2023.05)
