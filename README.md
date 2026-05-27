@@ -39,12 +39,14 @@
 <br>
 
 ## 🚀 Projects
-| 기간 | 프로젝트 | 설명 | 기술 스택 |
-| :--- | :--- | :--- | :--- |
-| 2025.03 ~ 2025.10| Codify | 학생들 간 코드 유사도를 검사하는 웹 서비스 | Java, SpringBoot |
-| 2024.12 ~ 2025.02 | 오늘 어땠어? | AI 기반 심리 상담 웹 서비스 | Java, SpringBoot |
-| 2024.06 ~ 2024.08 | YAHO | 야구 직관을 도와주는 웹 애플리케이션 | Java, SpringBoot |
-| 2024.04 ~ 2024.08 | Flory | 감성 일기 애플리케이션 | Java, SpringBoot |
+| 프로젝트 | 역할 / 스택 | 기간 | 한 줄 소개 | GitHub |
+| :--- | :--- | :--- | :--- | :--- |
+| Codify | BE / Java, SpringBoot | 2025.03 ~ 2025.10 | 학생들 간 코드 유사도를 검사하는 웹 서비스 | [Repo](https://github.com/orgs/Codify-2025/repositories) |
+| KKIUM | BE / Java, SpringBoot | 2026.04 ~ 2026.06 | 나의 경험을 구조적으로 정리하고 공고에 맞는 활용법을 제안하는 취업 준비 도우미 | [Repo](https://github.com/team-KKIUM/KKIUM-BE) |
+| Red Flag | BE / Java, SpringBoot | 2026.02 | 보이스피싱·스캠 피해 예방을 위한 대화 분석 서비스 | [Repo](https://github.com/RED-Flag-Project/RED-Flag-BE) |
+| FiNZ | BE / Java, SpringBoot | 2025.09 ~ 2025.10 | AI 코치 기반 가계부 앱 | [Repo](https://github.com/Finz-2025/Finz-Backend) |
+| 오늘 어땠어? | BE / Java, SpringBoot | 2024.12 ~ 2025.02 | AI 기반 심리 상담 웹 서비스 | [Repo](https://github.com/SucceSS-team-13/BE) |
+| YAHO | BE / Java, SpringBoot | 2024.06 ~ 2024.08 | 야구 직관을 도와주는 웹 애플리케이션 | [Repo](https://github.com/YahoProject/Yaho_Backend) |
 <br>
 
 ## 🏃 Experience & Activities
