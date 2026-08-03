@@ -51,7 +51,7 @@
 
 ## 🏃 Experience & Activities
 **Communities**
-- 한국대학생IT경영학회 KUSITMS | 33기 학회원 (2026.02 ~ )
+- 한국대학생IT경영학회 KUSITMS | 33기 학회원 (2026.02 ~ 2026.06)
 - GDG on Campus Sookmyung | Organizer (2024.09 ~ 2025.06)
 - UMC Sookmyung | 6기 Server 파트 부원 (2024.03 ~ 2024.08)
 - SOLUX (교내 개발 중앙 동아리) | 29기 부원 (2024.03 ~ 2024.08)
